@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "bignumber.js": "^9.0.0",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "highcharts": "^8.2.0",
     "intl-tel-input": "^17.0.3",
     "jquery": "^3.5.1",
