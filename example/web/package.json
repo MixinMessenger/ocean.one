@@ -19,7 +19,7 @@
     "js-cookie": "^2.2.1",
     "jsrsasign": "^9.1.9",
     "moment": "^2.27.0",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.33",
     "navigo": "^7.1.2",
     "node-forge": "^0.9.1",
     "node-polyglot": "^2.4.0",
