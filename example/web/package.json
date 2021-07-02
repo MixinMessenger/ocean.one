@@ -24,7 +24,7 @@
     "node-forge": "^0.9.1",
     "node-polyglot": "^2.4.0",
     "noty": "^3.2.0-beta",
-    "pako": "^1.0.11",
+    "pako": "^2.0.3",
     "qrious": "^4.0.2",
     "reconnecting-websocket": "^4.4.0",
     "simple-line-icons": "^2.5.5",
