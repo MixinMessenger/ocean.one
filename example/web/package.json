@@ -17,7 +17,7 @@
     "intl-tel-input": "^17.0.3",
     "jquery": "^3.5.1",
     "js-cookie": "^2.2.1",
-    "jsrsasign": "^9.1.9",
+    "jsrsasign": "^10.1.13",
     "moment": "^2.27.0",
     "moment-timezone": "^0.5.31",
     "navigo": "^7.1.2",
