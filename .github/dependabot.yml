@@ -1,0 +1,53 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/example/web"
+  schedule:
+    interval: weekly
+    timezone: Asia/Tokyo
+  open-pull-requests-limit: 100
+  ignore:
+  - dependency-name: css-loader
+    versions:
+    - "> 3.6.0"
+  - dependency-name: sass-loader
+    versions:
+    - "> 8.0.2"
+  - dependency-name: navigo
+    versions:
+    - 8.10.1
+    - 8.11.0
+    - 8.8.0
+    - 8.8.11
+    - 8.8.12
+    - 8.8.2
+    - 8.8.4
+    - 8.8.7
+    - 8.8.9
+    - 8.9.0
+    - 8.9.1
+  - dependency-name: jsrsasign
+    versions:
+    - 10.1.10
+    - 10.1.11
+    - 10.1.12
+    - 10.1.5
+    - 10.1.8
+  - dependency-name: intl-tel-input
+    versions:
+    - 17.0.11
+    - 17.0.8
+  - dependency-name: highcharts
+    versions:
+    - 8.2.2
+    - 9.0.0
+  - dependency-name: webpack-cli
+    versions:
+    - 4.4.0
+    - 4.5.0
+  - dependency-name: html-webpack-plugin
+    versions:
+    - 4.5.1
+  - dependency-name: moment-timezone
+    versions:
+    - 0.5.32
